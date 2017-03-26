@@ -1,0 +1,37 @@
+newmtl polySurface399SG1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+map_Kd body_d.png
+Ks 0.00 0.00 0.00
+map_Ks body_s.png
+Ni 1.00
+newmtl polySurface426SG1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+map_Kd head_d.png
+Ks 0.00 0.00 0.00
+map_Ks head_s.png
+Ni 1.00
+newmtl polySurface428SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.12 0.12 0.12
+map_Kd head_d.png
+Ks 1.00 1.00 1.00
+map_Ks head_s.png
+Ni 1.00
+Ns 20.99
+newmtl polySurface435SG1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+map_Kd head_d.png
+Ks 0.00 0.00 0.00
+map_Ks head_s.png
+Ni 1.00
